@@ -38,8 +38,10 @@ body{
 #JavaScript, #CSS, #HTML, #Senior, #Frontend {
     background-color: aquamarine;
     color:rgb(87, 173, 254);
+    border: 1px solid white;
     border-radius: 5px;
     background-color: rgb(228, 237, 241);
     padding: 10px;
-    gap: 10px;
+    gap: 40px;
+    margin-right: 10px;
 }
